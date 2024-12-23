@@ -1,0 +1,28 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#drejt{
+    display: flex;
+    align-items: center;
+}
+#main {
+    display: flex;
+    align-items: center;
+}
+button {
+    border-radius: 20px solid blue ;
+    width: 80px;
+    height: 20px;
+    color: blue;
+    
+}
+#Account {
+    background-color:  lightblue;
+    width: 305px;
+    padding: 20px ;
+    border-radius:20px solid ;
+   
+}
+
