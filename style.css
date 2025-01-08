@@ -20,9 +20,18 @@ button {
 }
 #Account {
     background-color:  lightblue;
-    width: 305px;
+    width: 486px;
     padding: 20px ;
     border-radius:20px solid ;
    
 }
 
+#mainn{
+    display: flex;
+        justify-content: space-between;
+        align-items: center;
+}
+#drejtohuu {
+    display: flex;
+    justify-content: space-evenly;
+}
